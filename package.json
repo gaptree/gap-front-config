@@ -12,7 +12,7 @@
     "regenerator-runtime": "^0.11.1"
   },
   "scripts": {
-    "test": "npm run jest && npm run eslint",
+    "test": "yarn run jest && yarn run eslint",
     "jest": "jest",
     "eslint": "eslint ."
   }

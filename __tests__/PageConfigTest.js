@@ -1,4 +1,4 @@
-import {PageConfig} from '../PageConfig.js';
+import {PageConfig} from '../index.js';
 
 test('window.PageConfig', () => {
     window.PageConfig = {
