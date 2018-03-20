@@ -9,7 +9,7 @@ $ yarn add gap-front-config
 ## Usage
 
 ```javascript
-import {config} from '../index.js';
+import {config} from 'gap-front-config';
 
 config.load({
     k1: 'v1',
