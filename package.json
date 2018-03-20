@@ -1,8 +1,8 @@
 {
-  "name": "gap-front-page-config",
-  "version": "1.0.1",
+  "name": "gap-front-config",
+  "version": "2.0.0",
   "main": "index.js",
-  "repository": "https://project.tecposter.cn/diffusion/90/gap-front-page-config.git",
+  "repository": "https://github.com/gaptree/gap-front-config",
   "author": "zhanjh <zhanjh@126.com>",
   "license": "MIT",
   "devDependencies": {
