@@ -1,9 +1,7 @@
-import {config} from '../index.js';
-
-import '../__lib__/import-extra-data.js';
+import {Config} from '../index.js';
 
 test('window.PageConfig', () => {
-    expect(config.get('exKey11')).toBe('exVal11');
+    const config = new Config();
 
     config.load({
         k1: 'v1',
